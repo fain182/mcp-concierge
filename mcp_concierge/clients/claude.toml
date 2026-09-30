@@ -1,0 +1,20 @@
+name = "Claude"
+verified = 2026-09-30
+
+[steps]
+en = [
+  'Open <a href="https://claude.ai/customize/connectors" target="_blank" rel="noopener">Claude’s connectors</a> (sign in if asked).',
+  'Click <b>Add custom connector</b>.',
+  'Name it <b>{name}</b>, paste the address and click <b>Add</b>. No password is needed.',
+  'Open a new chat and ask a question.',
+]
+it = [
+  'Apri <a href="https://claude.ai/customize/connectors" target="_blank" rel="noopener">i connettori di Claude</a> (accedi se te lo chiede).',
+  'Clicca <b>Aggiungi connettore personalizzato</b> (<i>Add custom connector</i>).',
+  'Come nome scrivi <b>{name}</b>, incolla l’indirizzo e clicca <b>Aggiungi</b>. Non serve nessuna password.',
+  'Apri una nuova chat e fai una domanda.',
+]
+
+[note]
+en = "Works on Claude's free plan too, which allows one custom connector."
+it = "Funziona anche con il piano gratuito di Claude, che permette un connettore personalizzato."

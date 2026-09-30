@@ -1,0 +1,19 @@
+[en]
+title = "Connect {name} to your AI assistant"
+intro = "This address doesn't open in a browser: add it to your assistant as a connector. You only do it once."
+copy_label = "Copy this address:"
+copy = "Copy"
+copied = "Copied"
+choose = "Which assistant do you use?"
+examples = "Some questions to start with:"
+verified = "Instructions checked on {date}."
+
+[it]
+title = "Collega {name} al tuo assistente"
+intro = "Questo indirizzo non si apre nel browser: va aggiunto come connettore all'assistente che usi. Si fa una volta sola."
+copy_label = "Copia questo indirizzo:"
+copy = "Copia"
+copied = "Copiato"
+choose = "Quale assistente usi?"
+examples = "Qualche domanda da cui partire:"
+verified = "Istruzioni verificate il {date}."

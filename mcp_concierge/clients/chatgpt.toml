@@ -1,0 +1,20 @@
+name = "ChatGPT"
+verified = 2026-09-30
+
+[steps]
+en = [
+  'Open <a href="https://chatgpt.com" target="_blank" rel="noopener">ChatGPT</a>, go to <b>Settings</b> and turn on <b>Developer mode</b>.',
+  'Among apps and connectors, create a new connector with <b>+</b> or <b>Create</b>.',
+  'Name it <b>{name}</b>, paste the address and choose <b>No authentication</b>. Confirm you trust the connector and create it.',
+  'In a new chat, turn on {name} from the <b>+</b> next to the message box, then ask a question.',
+]
+it = [
+  'Apri <a href="https://chatgpt.com" target="_blank" rel="noopener">ChatGPT</a>, vai in <b>Impostazioni</b> e attiva la <b>Modalità sviluppatore</b> (<i>Developer mode</i>).',
+  'Tra le app e i connettori, crea un nuovo connettore con il <b>+</b> o <b>Crea</b>.',
+  'Come nome scrivi <b>{name}</b>, incolla l’indirizzo e scegli <b>Nessuna autenticazione</b>. Conferma di fidarti del connettore e crealo.',
+  'In una nuova chat, dal <b>+</b> accanto al messaggio attiva {name}, poi fai una domanda.',
+]
+
+[note]
+en = "Custom connectors aren't available on every ChatGPT plan and the menu names change often: if you can't find developer mode, your plan probably doesn't include it."
+it = "Su ChatGPT i connettori personalizzati non sono disponibili con tutti i piani e i nomi dei menu cambiano spesso: se non trovi la modalità sviluppatore, il tuo piano probabilmente non la include."
